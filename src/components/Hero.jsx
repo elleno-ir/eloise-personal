@@ -79,7 +79,7 @@ export default function Hero({ isPlaying, setIsPlaying }) {
             className="relative w-full h-full rounded-full bg-slate-900 border-4 border-slate-800 shadow-2xl overflow-hidden flex items-center justify-center"
           >
             <img
-              src="/images/cover.jpg"
+              src="/images/cover-boogie.jpg"
               alt="Spinning Vinyl Disc"
               className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity"
               onError={(e) => {
